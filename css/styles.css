@@ -123,6 +123,11 @@ ol {
     color: var(--secondary-text-color);
 }
 
+.contacts-item {
+    margin-right: 10px;
+    fill: var(--secondary-text-color);
+}
+
 .header-list-contacts a:focus,
 .header-list-contacts a:hover {
     color:var(--accent-color)
@@ -134,9 +139,6 @@ ol {
     fill: currentColor;
 }
 
-.contacts-item{
-    margin-right: 10px;
-}
 
 .header-mail.link{
     display: flex;
