@@ -130,7 +130,7 @@ ol {
 
 .header-list-contacts a:focus,
 .header-list-contacts a:hover {
-    color:var(--accent-color)
+    color:var(--accent-color);
 }
 
 
